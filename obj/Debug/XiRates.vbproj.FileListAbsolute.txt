@@ -1,0 +1,13 @@
+c:\users\kia.armani\documents\visual studio 2013\Projects\XiRates\XiRates\bin\Debug\XiRates.exe.config
+c:\users\kia.armani\documents\visual studio 2013\Projects\XiRates\XiRates\bin\Debug\XiRates.exe
+c:\users\kia.armani\documents\visual studio 2013\Projects\XiRates\XiRates\bin\Debug\XiRates.pdb
+c:\users\kia.armani\documents\visual studio 2013\Projects\XiRates\XiRates\bin\Debug\XiRates.xml
+c:\users\kia.armani\documents\visual studio 2013\Projects\XiRates\XiRates\bin\Debug\MetroFramework.dll
+c:\users\kia.armani\documents\visual studio 2013\Projects\XiRates\XiRates\bin\Debug\MetroFramework.Fonts.dll
+c:\users\kia.armani\documents\visual studio 2013\Projects\XiRates\XiRates\obj\Debug\XiRates.vbprojResolveAssemblyReference.cache
+c:\users\kia.armani\documents\visual studio 2013\Projects\XiRates\XiRates\obj\Debug\XiRates.Form1.resources
+c:\users\kia.armani\documents\visual studio 2013\Projects\XiRates\XiRates\obj\Debug\XiRates.Resources.resources
+c:\users\kia.armani\documents\visual studio 2013\Projects\XiRates\XiRates\obj\Debug\XiRates.vbproj.GenerateResource.Cache
+c:\users\kia.armani\documents\visual studio 2013\Projects\XiRates\XiRates\obj\Debug\XiRates.exe
+c:\users\kia.armani\documents\visual studio 2013\Projects\XiRates\XiRates\obj\Debug\XiRates.xml
+c:\users\kia.armani\documents\visual studio 2013\Projects\XiRates\XiRates\obj\Debug\XiRates.pdb
